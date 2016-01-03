@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icon-m-common-presence-away.png</file>
+        <file>icon-m-common-presence-busy.png</file>
+        <file>icon-m-common-presence-online.png</file>
+        <file>mango.png</file>
+        <file>green-led-on-md.png</file>
+        <file>red-led-on-md.png</file>
+        <file>reload.png</file>
+        <file>db_add.png</file>
+        <file>save_all.png</file>
+        <file>Fairytale_button_add.png</file>
+        <file>Fairytale_button_cancel.png</file>
+        <file>1401477486_183265.ico</file>
+        <file>add_group.png</file>
+    </qresource>
+</RCC>
